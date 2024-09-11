@@ -11,7 +11,7 @@ public class Main {
 
         //inicializaçao, condiçao, incremento
         // ++ -> vai somar +1 i= i + 1
-        for (int i = 1; i < 101; i++) {
+        for (int i = 1; i < 11; i++) {
             System.out.println("Tabuada: " + (tabuada * i));}
 
         }
